@@ -1,1 +1,0 @@
-@compare_bibles.pl CAAT_verses.csv ..\..\cordova\MyBibleApp\www\BSB_verses.csv
