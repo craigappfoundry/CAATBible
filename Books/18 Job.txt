@@ -2141,49 +2141,86 @@ be silent, and I will teach you wisdom.”
 Chapter 34
 
 
-1 Hear my words, you wise men; and give ear to me, you men of understanding.
-2 For the ear tests words, as the palate tastes food.
-3 Let us choose what is right for ourselves; let us know among ourselves what is good.
-4 For Job has said, “I am righteous, and God has taken away my right;
-5 though I am in the right, I am counted a liar; my wound is incurable, though I have no transgression.”
-6 Who is a man like Job, who drinks derision like water,
-7 who travels with evildoers and walks with the wicked?
-8 For he has said, “A man gains nothing by delighting in God.”
-
-
-9 Therefore, you men of understanding, hear me: far be it from God to do wrong, and from the Almighty to pervert justice.
-10 For He repays a man according to his work, and makes him find according to his ways.
-11 Indeed, God will not do wickedly, nor will the Almighty pervert justice.
-12 Who gave Him charge over the earth? Or who laid the whole world under His authority?
-13 If He should set His heart to it, and gather to Himself His spirit and His breath,
-14 all flesh would perish together, and man would return to dust.
-
-
-15 If you have understanding, hear this; listen to the sound of my words.
-16 Shall one who hates justice govern? And will you condemn the righteous God?
-17 Does He say to a king, “Rash one”? And to nobles, “Wicked one”?
-18 He does not take away His eyes from the mighty; He is not partial to princes; for they are all the work of His hands.
-19 In a moment they die, at midnight; the people are shaken and pass away, and the mighty are removed without human hand.
-
-
-20 His eyes are on their ways, and He sees all their steps.
-21 There is no darkness, nor the shadow of death, where the workers of iniquity may hide themselves.
-22 For He will not appoint a time to man for judgment, saying, “Come here, that I may judge you.”
-23 He breaks in pieces the mighty without inquiry, and sets others in their place.
-24 Therefore He takes note of their ways; He overthrows them in the night, and they are crushed.
-25 He strikes them as wicked men in open sight, because they turned aside from following Him, and would not consider any of His ways.
-26 So they caused the cry of the poor to come before Him; He hears the cry of the afflicted.
-27 When he gives quietness, who then can condemn? And when He hides His face, who then can behold Him, whether it is against a nation or a man?
-28 That he should not rule as a godless man, nor be an ensnarer of the people.
-
-
-29 Anyone may say, “I have endured chastening; I will not offend anymore;
-30 teach me what I do not see; if I have done wrong, I will not do it again.”
-31 Would you then speakwhat you know, since you reject it? You must choose, not I; therefore say what you know.
-32 Men of understanding will tell me, and a wise man who hears me will say:
-33 “Job speaks without knowledge, and his words lack insight.”
-34 Would that Job were tried to the utmost, because his answers are like those of wicked men!
-35 For he adds rebellion to his sin; he claps his hands among us, and multiplies his words against God.
+1 Then Elihu answered and said,
+2 “Hear my words, you wise men,
+ and give ear to me, you who know.
+3 For the ear tests words
+ as the palate tastes food.
+4 Let us choose for ourselves what is right;
+ let us know among ourselves what is good.
+5 For Job has said, ‘I am righteous,
+ but God has taken away my right;
+6 in spite of my right I am counted a liar;
+ my wound is incurable, without transgression.’
+7 What man is like Job,
+ who drinks scoffing like water,
+8 and goes in company with workers of iniquity,
+ and walks with wicked men?
+9 For he has said, ‘A man gains nothing
+ when he delights himself with God.’
+10 Therefore hear me, you men of understanding:
+ far be it from God to do wickedness,
+ and from the Almighty to do wrong.
+11 For He repays a man according to his work,
+ and He makes a man find according to his way.
+12 Indeed, God does not act wickedly,
+ and the Almighty does not pervert justice.
+13 Who appointed Him over the earth,
+ and who established the whole world?
+14 If He set His heart upon man,
+ if He gathered to Himself his spirit and breath,
+15 all flesh would perish together,
+ and man would return to the dust.
+16 But if you have understanding, hear this;
+ listen to the sound of my words.
+17 Shall one who hates justice govern?
+ Will you condemn the righteous, the mighty One,
+18 who says to a king, ‘Worthless,’
+ and to nobles, ‘Wicked’?
+19 He does not show partiality to princes,
+ nor regard the rich over the poor,
+ for all of them are the work of His hands.
+20 They die in a moment;
+ at midnight a people are shaken and pass away,
+ and the mighty are taken away without a hand.
+21 For His eyes are upon the ways of man,
+ and He sees all his steps.
+22 There is no darkness and no deep shadow
+ where workers of iniquity can hide themselves.
+23 For He does not set a time for any man
+ to go before God in judgment.
+24 He shatters mighty men without inquiry
+ and sets others in their place.
+25 Therefore He knows their works,
+ and He overturns them in the night,
+ and they are crushed.
+26 He strikes them like wicked men
+ in a place where onlookers see,
+27 because they turned aside from following Him
+ and did not understand any of His ways,
+28 so that they caused the cry of the poor to come to Him,
+ and He hears the cry of the afflicted.
+29 When He is quiet, who can condemn?
+ When He hides His face, who can see Him,
+ whether it concerns a nation or a man alike,
+30 so that a godless man should not rule,
+ so that there be no snares for the people?
+31 For has anyone said to God,
+ ‘I have borne chastisement; I will not offend again;
+32 teach me what I do not see;
+ if I have done iniquity, I will not do it again’?
+33 Should He repay according to your mind, since you reject it?
+ For you must choose, and not I;
+ so declare what you know.
+34 Men of understanding will say to me,
+ and a wise man who hears me will say,
+35 ‘Job speaks without knowledge,
+ and his words are without insight.’
+36 Would that Job were tried to the utmost,
+ because he answers like wicked men.
+37 For he adds rebellion to his sin;
+ he claps his hands among us
+ and multiplies his words against God.”
 
 
 
@@ -2326,48 +2363,89 @@ Chapter 37
 Chapter 38
 
 
-1 Then the LORD answered Job out of the whirlwind and said:
-2 Who is this that obscures my counsel with words without knowledge?
-3 Gird up your loins like a man; I will question you, and you shall answer me.
-4 Where were you when I laid the foundations of the earth? Tell me, if you have understanding.
-5 Who determined its measurements — surely you know! Or who stretched the line upon it?
-6 On what were its bases sunk, or who laid its cornerstone,
-7 when the morning stars sang together, and all the sons of God shouted for joy?
-8 Or who shut in the sea with doors, when it burst out from the womb,
-9 when I made the cloud its garment, and thick darkness its swaddling band,
-10 and prescribed limits for it, and set bars and doors,
-11 and said, “This far you shall come, but no farther; here shall your proud waves stop”?
-
-
-12 Have you commanded the morning since your days began, and caused the dawn to know its place,
-13 that it might take hold of the edges of the earth, and the wicked be shaken out of it?
-14 It changes as clay under a seal; and its features stand out like a garment.
-15 From the wicked their light is withheld, and the uplifted arm is broken.
-16 Have you entered into the springs of the sea, or walked in the recesses of the deep?
-17 Have the gates of death been revealed to you, or have you seen the gates of the shadow of death?
-18 Have you comprehended the breadth of the earth? Declare, if you know it all.
-19 Where is the way to the dwelling of light, and where is the place of darkness,
-20 that you may take it to its territory, and that you may know the paths to its home?
-21 Surely you know, for you were born then, and the number of your days is great!
-22 Have you entered the storehouses of the snow, or have you seen the storehouses of the hail,
-23 which I have reserved for the time of trouble, for the day of battle and war?
-24 By what way is light distributed, or the east wind scattered over the earth?
-25 Who has cleft a channel for the torrents of rain, and a way for the thunderbolt,
-26 to bring rain on a land where there is no man, on the desert in which there is no man,
-27 to satisfy the waste and desolate land, and to cause the bud of tender grass to spring forth?
-28 Has the rain a father? Or who has begotten the drops of dew?
-29 From whose womb comes the ice? And the frost of heaven, who gives it birth?
-30 The waters become hard like stone, and the surface of the deep is frozen.
-31 Can you bind the chains of the Pleiades, or loosen the cords of Orion?
-32 Can you lead forth a constellation in its season, or guide the Bear with its cubs?
-33 Do you know the ordinances of the heavens? Can you establish their rule on the earth?
-34 Can you lift up your voice to the clouds, that abundance of waters may cover you?
-35 Can you send forth the lightning, that they may go, and say to you, “Here we are”?
-36 Who has put wisdom in the inward parts, or given understanding to the mind?
-37 Who can number the clouds by wisdom? Or who can tilt the waterskins of the heavens,
-38 when the dust runs into a mass and the clods stick fast together?
-39 Can you hunt the prey for the lioness, or satisfy the young lions when they crouch in their dens?
-40 Who provides for the raven its prey, when its young ones cry to God, and wander for lack of food?
+1 Then the LORD answered Job out of the whirlwind and said,
+2 “Who is this who darkens counsel
+ by words without knowledge?
+3 Gird up your loins like a man,
+ and I will question you, and you will make it known to Me.
+4 Where were you when I laid the earth’s foundation?
+ Tell Me, if you understand.
+5 Who determined its measurements—
+ for you surely know—
+ or who stretched the line over it?
+6 On what were its bases sunk,
+ or who laid its cornerstone,
+7 when the morning stars sang together,
+ and all the sons of God shouted for joy?
+8 Or who shut in the sea with doors
+ when it burst forth and came out from the womb,
+9 when I made the cloud its garment
+ and thick darkness its swaddling band,
+10 and I fixed My limit for it
+ and set bars and doors,
+11 and said, ‘You shall come to this point and no farther,
+ and here your proud waves shall stop’?
+12 Have you commanded the morning since your days began,
+ and caused the dawn to know its place,
+13 so that it might seize the edges of the earth
+ and the wicked be shaken out of it?
+14 It is changed like clay under a seal,
+ and things stand out like a garment.
+15 From the wicked their light is withheld,
+ and the uplifted arm is broken.
+16 Have you gone to the springs of the sea,
+ or walked in the recesses of the deep?
+17 Have the gates of death been revealed to you,
+ or have you seen the gates of the shadow of death?
+18 Have you comprehended the breadth of the earth?
+ Declare, if you know it all.
+19 Where is the way to the dwelling of light,
+ and darkness—where is its place,
+20 that you might take it to its territory,
+ and that you might discern the paths to its house?
+21 You know, for you were born then,
+ and the number of your days is great.
+22 Have you entered the storehouses of the snow,
+ or have you seen the storehouses of the hail,
+23 which I have reserved for the time of distress,
+ for the day of battle and war?
+24 What is the way by which the light is divided,
+ or the east wind is scattered over the earth?
+25 Who has cut a channel for the torrent of rain,
+ and a path for the thunderstorm,
+26 to bring rain on a land where no man is,
+ on a wilderness in which there is no human being,
+27 to satisfy the waste and desolate ground,
+ and to make the grass sprout?
+28 Does the rain have a father,
+ or who has fathered the drops of dew?
+29 From whose womb comes the ice,
+ and the frost of heaven—who gives it birth,
+30 when waters harden like stone,
+ and the surface of the deep is frozen?
+31 Can you bind the chains of the Pleiades,
+ or loosen the cords of Orion?
+32 Can you bring out the constellations in their season,
+ or guide the Bear with its children?
+33 Do you know the ordinances of the heavens,
+ or can you establish their rule on the earth?
+34 Can you lift up your voice to the clouds,
+ so that an abundance of water may cover you?
+35 Can you send out lightning bolts, and they go,
+ and say to you, ‘Here we are’?
+36 Who has put wisdom in the inward parts,
+ or who has given understanding to the mind?
+37 Who can number the clouds with wisdom,
+ or who can tilt the water jars of heaven
+38 when the dust hardens into a mass
+ and the clods stick together?
+39 Can you hunt prey for the lioness,
+ or satisfy the hunger of young lions
+40 when they crouch in their dens
+ or lie in wait in the thicket?
+41 Who prepares for the raven its food
+ when its young cry out to God
+ and wander about without food?”
 
 
 
@@ -2375,45 +2453,71 @@ Chapter 38
 Chapter 39
 
 
-1 Do you know the time when the mountain goats give birth, or mark when the hinds calve?
-2 Can you number the months that they fulfill, or know when they bring forth?
-3 They crouch down, they bring out their young, they send forth their pangs, they cast forth their offspring.
-4 Their young become strong, they grow up in the open field, they go forth, yet do not return to them.
+1 “Do you know the time when the wild goats give birth,
+ or observe the calving of the deer?
+2 Can you count the months they fulfill,
+ and do you know the time when they give birth,
+3 when they crouch,
+ bring forth their offspring,
+ and cast out their labor pains?
+4 Their young grow strong;
+ they grow up in the open field;
+ they go out and do not return to them.
+5 Who has set the wild donkey free,
+ and who has loosed the bonds of the swift donkey,
+6 to whom I assigned the desert for his home
+ and the salt land for his dwelling place?
+7 He scorns the tumult of the city;
+ he does not hear the shouts of the driver.
+8 He ranges the mountains for his pasture
+ and searches after every kind of green plant.
+9 Will the wild ox consent to serve you,
+ or spend the night at your manger?
+10 Can you bind the wild ox in a furrow with ropes,
+ or will he harrow the valleys after you?
+11 Will you trust him because his strength is great,
+ or will you leave your labor to him?
+12 Will you rely on him that he will bring back your grain
+ and gather it to your threshing floor?
+13 The wings of the ostrich wave joyously,
+ though they are not like the pinions and feathers of the stork.
+14 For she leaves her eggs on the earth
+ and warms them in the dust,
+15 and she forgets that a foot may crush them
+ or that a wild animal may trample them.
+16 She treats her young harshly, as though they were not hers;
+ she is unconcerned, for her labor is in vain,
+17 for God has made her forget wisdom
+ and has not given her a share in understanding.
+18 Yet when she lifts herself to run,
+ she mocks the horse and rider.
+19 Do you give the horse his strength?
+ Do you clothe his neck with a mane?
+20 Do you make him leap like a locust?
+ His majestic snorting is terrifying.
+21 He paws in the valley and exults in his strength;
+ he goes out to meet the weapons.
+22 He laughs at fear and is not dismayed;
+ he does not turn back from the sword.
+23 Against him the quiver rattles,
+ the flashing spear and javelin.
+24 With trembling and rage he swallows up the ground;
+ he cannot stand still when the trumpet sounds.
+25 At the blast of the trumpet he says, ‘Aha!’
+ and from afar he scents the battle,
+ the thunder of captains and the shouting.
+26 Is it by your understanding that the hawk soars,
+ spreading his wings toward the south?
+27 Is it at your command that the eagle mounts up
+ and builds his nest on high?
+28 He dwells on the cliff and lodges on the rocky crag,
+ a stronghold.
+29 From there he spies out his prey;
+ his eyes gaze far off.
+30 His young suck up blood;
+ and where the slain are, there he is.”
 
 
-5 Who set free the wild donkey? Who loosened his bonds?
-6 Whose house I made the wilderness, and salt land his pasture.
-7 He laughs at the tumult of the city; he does not hear the shouts of the driver.
-8 He ranges the mountains as his pasture and searches after every green thing.
-
-
-9 Will the wild ox consent to serve you? Will he spend the night at your crib?
-10 Can you bind him in the furrow with a harness, or will he harrow the valleys after you?
-11 Will you trust him because his strength is great, or will you leave to him your labor?
-12 Will you believe him that he will bring home your seed, and gather it to your threshing floor?
-
-
-13 The wings of the ostrich flap joyfully, but are her feathers and plumage like the stork’s?
-14 She leaves her eggs on the ground and warms them in the dust.
-15 She forgets that a foot may crush them, or that wild beasts may trample them.
-16 She treats her young harshly, as though they were not hers; though her labor is in vain, she has no fear,
- because God has deprived her of wisdom and has not given her understanding.
-17 When she lifts herself on high, she laughs at the horse and his rider.
-
-
-18 Do you give the horse his might? Do you clothe his neck with a flowing mane?
-19 Do you lead him like a locust? His majestic snorting is terrifying.
-20 He paws in the valley and rejoices in his strength; he goes out to meet the weapons.
-21 He laughs at fear and is not frightened; he does not turn back from the sword.
-22 He quivers at the blast of the trumpet; he hears the clash of the javelin and the spear.
-23 He says among the trumpets, “Ha!” He smells the battle from afar, the thunder of captains and shouting.
-
-
-24 Is it by your wisdom that the hawk soars, stretching her wings toward the south?
-25 Is it at your command that the eagle mounts up and makes her nest on high?
-26 She dwells and abides on the rock, on the crag of the cliff, a stronghold.
-27 From there she spies out the prey; her eyes behold it from far away.
-28 Her young also suck up blood; where the slain are, there she is.
 
 
 
@@ -2479,38 +2583,74 @@ Chapter 40
 Chapter 41
 
 
-1 Can you draw Leviathan out with a hook, or press down his tongue with a cord?
-2 Can you put a rope in his nose, or pierce his jaw with a hook?
-3 Will he make many pleas to you? Will he speak softly to you?
-4 Will he make a covenant with you, to become your servant forever?
-5 Will you play with him like a bird, or will you bind him for your maidens?
-6 Will traders bargain over him? Will they divide him among the merchants?
-7 Can you fill his skin with harpoons, or his head with fishing spears?
-8 Lay your hand on him; think of the battle; you will not do it again.
-9 See how his hope is false; even at his sight he is despised.
-10 No man is so fierce that he dares to stir him up; who then is able to stand before me?
-11 Who has first given to me, that I should repay him? Whatever is under the whole heaven is mine.
-12 I will not be quiet concerning his limbs, or his mighty strength, or his graceful parts.
-13 Who can uncover the face of his garment? Who can come near to his double bridle?
-14 Who can open the doors of his face? Around his teeth is terror.
-15 His back is made of rows of shields, tightly sealed together.
-16 Each is so close to the next that no wind can pass between them;
-17 they are joined so that one cannot part them.
-18 His sneezings flash forth light, and his eyes are like the eyelids of the dawn.
-19 Flames pour forth from his mouth; burning coals leap forth.
-20 Smoke goes out of his nostrils, as from a boiling pot and burning rushes.
-21 His breath kindles coals, and a flame goes out of his mouth.
-22 His neck is strong under him, and his heart is firm as a stone.
-23 When he raises himself up, the mighty are terrified; they retreat in horror.
-24 The sword that reaches him cannot hold, nor the spear, the dart, or the javelin.
-25 He considers iron like straw, and bronze like rotten wood.
-26 The arrow cannot make him flee; for him, sling stones are turned to stubble.
-27 Clubs are counted as stubble; he laughs at the rattle of javelins.
-28 His undersides are like sharp potsherds; he spreads out like a threshing sledge on the mire.
-29 He makes the deep boil like a pot; he makes the sea like a jar of ointment.
-30 Behind him he makes a path, shining with terror; the deep is like the surface of a boiling oil.
-31 Nothing on earth is like him, a creature without fear.
-32 He looks down on all that are haughty; he is king over all the sons of pride.
+1 “Can you draw out Leviathan with a hook,
+ or press down his tongue with a cord?
+2 Can you put a rope in his nose,
+ or pierce his jaw with a hook?
+3 Will he make many supplications to you,
+ or will he speak gentle words to you?
+4 Will he make a covenant with you
+ so that you may take him as a servant forever?
+5 Will you play with him as with a bird,
+ or tie him up for your young women?
+6 Will partners bargain over him?
+ Will they divide him among the merchants?
+7 Can you fill his hide with harpoons,
+ or his head with fishing spears?
+8 Lay your hand on him;
+ you will remember the battle and do it no more.
+9 Any hope of subduing him is false;
+ the mere sight of him is overwhelming.
+10 No one is fierce enough to rouse him;
+ who then can stand before me?
+11 Who has confronted me that I should repay him?
+ Whatever is under all heaven is mine.
+12 I will not keep silent about his limbs,
+ his mighty strength, and the grace of his form.
+13 Who can strip off his outer covering?
+ Who can penetrate his double armor?
+14 Who can open the doors of his face?
+ Around his teeth is terror.
+15 His back has rows of shields,
+ shut up closely as with a seal.
+16 One is so near to another
+ that no air comes between them.
+17 They are joined one to another;
+ they clasp each other and cannot be separated.
+18 His sneezes flash forth light,
+ and his eyes are like the eyelids of the dawn.
+19 Firebrands come forth from his mouth;
+ sparks of fire leap out.
+20 Smoke goes out of his nostrils
+ as from a boiling pot over burning reeds.
+21 His breath kindles coals,
+ and flame comes out of his mouth.
+22 Strength resides in his neck,
+ and dismay dances before him.
+23 The folds of his flesh stick together,
+ firmly cast upon him and immovable.
+24 His heart is hard as stone,
+ hard as the lower millstone.
+25 When he rises up, the mighty are afraid;
+ because of his crashings they are beside themselves.
+26 The sword that reaches him has no effect,
+ nor does spear, dart, or javelin.
+27 He regards iron as straw
+ and bronze as rotten wood.
+28 The arrow does not make him flee;
+ slingstones are turned to stubble for him.
+29 Clubs are regarded as stubble;
+ he laughs at the shaking of the javelin.
+30 His underparts are sharp potsherds;
+ he spreads out a threshing-sledge on the mire.
+31 He makes the deep churn like a pot;
+ he makes the sea like a pot of ointment.
+32 Behind him he leaves a shining wake;
+ one would think the deep had white hair.
+33 On earth there is nothing like him,
+ made without fear.
+34 He looks on all who are lofty;
+ he is king over all the sons of pride.”
 
 
 
@@ -2519,17 +2659,17 @@ Chapter 42
 
 
 1 Then Job answered the LORD and said:
-I know that you can do everything,
+2 I know that you can do everything,
 and no purpose of yours can be thwarted.
-2 “You said, ‘Who is this who darkens counsel
+3 “You said, ‘Who is this who darkens counsel
 without knowledge?’
 Therefore I declared what I did not understand,
 things too wondrous for me, which I did not know.
-3 You said, ‘Listen now, and I will speak;
+4 You said, ‘Listen now, and I will speak;
 I will question you, and you will make me know.’
-4 I had heard of you by the hearing of the ear,
+5 I had heard of you by the hearing of the ear,
 but now my eye has seen you.
-5 Therefore I despise myself,
+6 Therefore I despise myself,
 and I repent in dust and ashes.
 
 

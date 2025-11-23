@@ -1,7 +1,7 @@
-﻿#The Gospel of Mark
+﻿The Gospel of Mark
 
 
-##Chapter 1
+Chapter 1
 
 
 1 The beginning of the Good News about Jesus Christ, the Son of God.
@@ -71,7 +71,7 @@
 45 But the man went out and began to proclaim it freely and spread the news, so that Jesus could no longer openly enter a town but stayed out in deserted places. Even then, people kept coming to Him from everywhere.
 
 
-##Chapter 2
+Chapter 2
 
 
 1 After a few days, Jesus returned to Capernaum, and word spread that He was at home.
@@ -114,7 +114,7 @@
 28 So the Son of Man is Lord also of the Sabbath.”
 
 
-##Chapter 3
+Chapter 3
 
 
 1 Jesus entered the synagogue again, and a man was there with a withered hand.
@@ -162,7 +162,7 @@
 35 For whoever does the will of God is my brother and sister and mother.”
 
 
-##Chapter 4
+Chapter 4
 
 
 1 Once again, Jesus began teaching beside the sea. A massive crowd gathered around Him, so He climbed into a boat and sat down while the entire crowd remained on the shore by the water.
@@ -222,7 +222,7 @@
 
 
 
-##Chapter 5
+Chapter 5
 
 
 1 After this, they landed on the other side of the sea, in the region of the Gerasenes.
@@ -290,7 +290,7 @@
 
 
 
-##Chapter 6
+Chapter 6
 
 
 1 And He went out from there and came into his hometown, and his disciples followed him.
@@ -367,7 +367,7 @@
 
 
 
-##Chapter 7
+Chapter 7
 
 
 1 Now the Pharisees and some of the scribes who had come from Jerusalem gathered around him.
@@ -419,7 +419,7 @@
 
 
 
-##Chapter 8
+Chapter 8
 
 
 1 In those days, when a large crowd had gathered again and they had nothing to eat, Jesus called his disciples to him and said to them,
@@ -476,7 +476,7 @@
 
 
 
-##Chapter 9
+Chapter 9
 
 
 1 And He said to them, "Truly I say to you that there are some of those standing here who will not taste death until they see the kingdom of God having come in power."
@@ -549,7 +549,7 @@
 
 
 
-##Chapter 10
+Chapter 10
 
 
 1 Now rising up from there, He comes into the region of Judea and beyond the Jordan, and crowds gather to him again. As was his custom, He began teaching them once more.
@@ -626,7 +626,7 @@
 
 
 
-##Chapter 11
+Chapter 11
 
 
 1 As they approached Jerusalem, near Bethphage and Bethany at the Mount of Olives, He sent two of His disciples,
@@ -680,7 +680,7 @@
 
 
 
-##Chapter 12
+Chapter 12
 
 
 1 Then He began to speak to them in parables: “A man planted a vineyard, set a hedge around it, dug a pit for the winepress, and built a tower. He leased it to tenant farmers and went away on a journey.
@@ -743,7 +743,7 @@
 
 
 
-##Chapter 13
+Chapter 13
 
 
 1 As He was leaving the temple, one of his disciples said to him, "Teacher, look! What massive stones and what impressive buildings!"
@@ -801,7 +801,7 @@
 
 
 
-##Chapter 14
+Chapter 14
 
 
 1 It was now two days before the Passover and the Festival of Unleavened Bread. The chief priests and the scribes were looking for a way to arrest Jesus by stealth and kill him,
@@ -902,7 +902,7 @@
 
 
 
-##Chapter 15
+Chapter 15
 
 
 1 As soon as it was morning, the chief priests held a consultation with the elders and scribes and the whole council. They bound Jesus, led him away, and handed him over to Pilate.
@@ -969,7 +969,7 @@
 
 
 
-##Chapter 16
+Chapter 16
 
 
 1 After the Sabbath had passed, Mary Magdalene, Mary the mother of James, and Salome bought spices so they could go and anoint him.

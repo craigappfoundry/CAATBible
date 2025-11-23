@@ -1,0 +1,67 @@
+id,Book,Abbreviation,ChapterCount
+1,Genesis,Gen,50
+2,Exodus,Exo,40
+3,Leviticus,Lev,27
+4,Numbers,Num,36
+5,Deuteronomy,Deu,34
+6,Joshua,Jsh,24
+7,Judges,Jdg,21
+8,Ruth,Rth,4
+9,1 Samuel,1Sm,31
+10,2 Samuel,2Sm,24
+11,1 Kings,1Kg,22
+12,2 Kings,2Kg,25
+13,1 Chronicles,1Cr,29
+14,2 Chronicles,2Cr,36
+15,Ezra,Ezr,10
+16,Nehemiah,Neh,13
+17,Esther,Est,10
+18,Job,Job,42
+19,Psalms,Psa,150
+20,Proverbs,Prv,31
+21,Ecclesiastes,Ecc,12
+22,Song of Solomon,SoS,8
+23,Isaiah,Isa,66
+24,Jeremiah,Jer,52
+25,Lamentations,Lam,5
+26,Ezekiel,Eze,48
+27,Daniel,Dan,12
+28,Hosea,Hos,14
+29,Joel,Joe,3
+30,Amos,Amo,9
+31,Obadiah,Oba,1
+32,Jonah,Jon,4
+33,Micah,Mic,7
+34,Nahum,Nah,3
+35,Habakkuk,Hab,3
+36,Zephaniah,Zph,3
+37,Haggai,Hag,2
+38,Zechariah,Zch,14
+39,Malachi,Mal,4
+40,Matthew,Mat,28
+41,Mark,Mrk,16
+42,Luke,Luk,24
+43,John,Jhn,32
+44,Acts,Act,28
+45,Romans,Rom,16
+46,1 Corinthians,1Co,16
+47,2 Corinthians,2Co,13
+48,Galatians,Gal,6
+49,Ephesians,Eph,6
+50,Phillipians,Phl,4
+51,Colossians,Col,4
+52,1 Thessalonians,1Th,5
+53,2 Thessalonians,2Th,3
+54,1 Timothy,1Ti,6
+55,2 Timothy,2Ti,4
+56,Titus,Tit,3
+57,Philemon,Phm,1
+58,Hebrews,Heb,13
+59,James,Jms,5
+60,1 Peter,1Pt,5
+61,2 Peter,2Pt,3
+62,1 John,1Jn,5
+63,2 John,2Jn,1
+64,3 John,3Jn,1
+65,Jude,Jud,1
+66,Revelation,Rev,22

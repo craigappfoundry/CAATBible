@@ -1734,7 +1734,7 @@ Chapter 39
 
 
 
-Psalm 40
+Chapter 40
 
 
 1 I waited patiently for the Lord, and He turned to me and heard my cry.
@@ -6415,9 +6415,9 @@ Chapter 130
 
 
 1  From the depths I call to you, O LORD;
-  2  Lord, hear my voice;
-    let your ears be attentive
-    to my plea for mercy.
+2  Lord, hear my voice;
+ let your ears be attentive
+ to my plea for mercy.
 
 
 3  If you should mark iniquities, Lord,

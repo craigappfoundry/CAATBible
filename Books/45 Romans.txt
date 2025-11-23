@@ -126,9 +126,9 @@ Chapter 3
 
 
    “There is no one righteous, not even one;  
-   11 there is no one who understands,  
-   there is no one who seeks God.  
-   12 All have turned away, together they have become worthless;  
+11 there is no one who understands,  
+there is no one who seeks God.  
+12 All have turned away, together they have become worthless;  
    there is no one who does good, not even one.”  
 
 
@@ -143,8 +143,8 @@ Chapter 3
 
 
 15 “Their feet are swift to shed blood;  
-   16 ruin and misery mark their ways,  
-   17 and the path of peace they have not known.”  
+16 ruin and misery mark their ways,  
+17 and the path of peace they have not known.”  
 
 
 18 “There is no fear of God before their eyes.”  
@@ -530,7 +530,7 @@ Chapter 11
 
    “Let their table become a snare and a trap,  
    a stumbling block and a retribution for them.  
-   10 Let their eyes be darkened so they cannot see,  
+10 Let their eyes be darkened so they cannot see,  
    and bend their backs forever.”  
 
 
@@ -559,8 +559,8 @@ Chapter 11
 
 
    “The Deliverer will come from Zion,  
-   He will remove ungodliness from Jacob.”  
-   27 “And this is My covenant with them  
+   He will remove ungodliness from Jacob.”
+27 “And this is My covenant with them  
    when I take away their sins.”  
 
 
@@ -574,9 +574,9 @@ Chapter 11
 33 Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are His judgments and how inscrutable His ways!  
 
 
-   34 “For who has known the mind of the Lord,  
+34 “For who has known the mind of the Lord,
    or who has been His counselor?”  
-   35 “Or who has given to Him,  
+35 “Or who has given to Him,  
    that He should be repaid?”  
 
 
@@ -592,7 +592,7 @@ Chapter 12
 2 Do not conform to this world, but be transformed by the renewing of your mind so that you may discern what is the will of God, what is good and acceptable and perfect.
 
 
-3. For by the grace given to me I say to every man among you, not to think of himself more highly than he ought, but rather to think with sober judgment, in accordance with the measure of faith that God has assigned to each.  
+3 For by the grace given to me I say to every man among you, not to think of himself more highly than he ought, but rather to think with sober judgment, in accordance with the measure of faith that God has assigned to each.  
 4 For as in one body we have many members, and not all the members have the same function,  
 5 so we, though many, are one body in Christ, and individually members of one another.  
 6 Let us use the different gifts that we have, according to the grace given to us: if prophecy, let us prophesy in proportion to our faith;  

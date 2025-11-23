@@ -90,7 +90,8 @@ Chapter 3
 
 1 Now the serpent was more cunning than any beast of the field that the Lord God had made. He said to the woman, "Did God really say, 'You shall not eat from any tree in the garden'?"
 
-2 The woman answered the serpent, "We may eat the fruit of the trees in the garden, 3 but concerning the fruit of the tree that is in the middle of the garden, God said, 'You shall not eat from it, nor shall you touch it, lest you die.'"
+2 The woman answered the serpent, "We may eat the fruit of the trees in the garden,
+3 but concerning the fruit of the tree that is in the middle of the garden, God said, 'You shall not eat from it, nor shall you touch it, lest you die.'"
 
 4 But the serpent said to the woman, "You will certainly not die!
 5 For God knows that on the day you eat from it, your eyes will be opened, and you will be like God, knowing good and evil."
@@ -385,7 +386,7 @@ Chapter 9
 
    "Blessed be the Lord, the God of Shem!  
    May Canaan be his servant.
-   27 May God enlarge Japheth,  
+27 May God enlarge Japheth,  
    and may he dwell in the tents of Shem,  
    and may Canaan be his servant."
 
