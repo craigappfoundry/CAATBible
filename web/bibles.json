@@ -1,0 +1,14 @@
+[
+	{
+		"code": "ABT",
+		"name": "Allyn's Bible Translation",
+		"size": "1416064",
+		"crc": "a3d81c46"
+	},
+	{
+		"code": "BSB",
+		"name": "Berean Study Bible",
+		"size": "1436067",
+		"crc": "a8232d24"
+	}
+]
